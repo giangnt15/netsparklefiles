@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Application</title>
+    <link>https://github.com/giangnt15/netsparklefiles/blob/main/appcast.xml</link>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Application 1.0.1</title>
+      <pubDate>Fri, 07 Feb 2025 17:28:43 +07:00</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/giangnt15/netsparklefiles/blob/main/DemoNetSparkleInstaller.exe/DemoNetSparkleInstaller.exe" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="25997324" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="1th/Q7dQoSF3ErRP/A06v6+TqYpsb+LVPUqHTAAFNHSUJ5UBJvcleSk0BF/E1mUP6DQREmps0uieD4pBjy/fDw==" />
+    </item>
+  </channel>
+</rss>
