@@ -2,7 +2,6 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Application</title>
-      <link>https://github.com/giangnt15/netsparklefiles/blob/main/appcast.xml</link>
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
